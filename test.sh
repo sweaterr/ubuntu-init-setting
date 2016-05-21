@@ -15,4 +15,4 @@ test_nvidia()
     # then sudo python setup.py develop
 }
 
-test_nvidia()
+test_nvidia
